@@ -1,2 +1,2 @@
-wew are changing f100 file and saving this changes
+--we are changing f100 file and saving this changes
 select * from emp where job = 'SALESMAN'
